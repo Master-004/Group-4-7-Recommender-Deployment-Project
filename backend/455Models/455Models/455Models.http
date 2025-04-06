@@ -1,0 +1,6 @@
+@_455Models_HostAddress = http://localhost:5166
+
+GET {{_455Models_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

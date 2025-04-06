@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|c:\\users\\salde\\onedrive\\documents\\6. winter 2025\\is 455\\455models\\backend\\455models\\455models\\controllers\\validcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|solutionrelative:455models\\controllers\\validcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|c:\\users\\salde\\onedrive\\documents\\6. winter 2025\\is 455\\455models\\backend\\455models\\455models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|solutionrelative:455models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|c:\\users\\salde\\onedrive\\documents\\6. winter 2025\\is 455\\455models\\backend\\455models\\455models\\data\\article_recommendations_content.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|solutionrelative:455models\\data\\article_recommendations_content.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|c:\\users\\salde\\onedrive\\documents\\6. winter 2025\\is 455\\455models\\backend\\455models\\455models\\data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|solutionrelative:455models\\data\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|c:\\users\\salde\\onedrive\\documents\\6. winter 2025\\is 455\\455models\\backend\\455models\\455models\\data\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|solutionrelative:455models\\data\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|c:\\users\\salde\\onedrive\\documents\\6. winter 2025\\is 455\\455models\\backend\\455models\\455models\\data\\article_recommendations_collaborative.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|solutionrelative:455models\\data\\article_recommendations_collaborative.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|c:\\users\\salde\\onedrive\\documents\\6. winter 2025\\is 455\\455models\\backend\\455models\\455models\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|solutionrelative:455models\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|c:\\users\\salde\\onedrive\\documents\\6. winter 2025\\is 455\\455models\\backend\\455models\\455models\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|solutionrelative:455models\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|c:\\users\\salde\\onedrive\\documents\\6. winter 2025\\is 455\\455models\\backend\\455models\\455models\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|solutionrelative:455models\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|c:\\users\\salde\\onedrive\\documents\\6. winter 2025\\is 455\\455models\\backend\\455models\\455models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3003C74-4A84-432C-ACD5-46228E8BC19F}|455Models\\455Models.csproj|solutionrelative:455models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recommendation.cs",
+              "DocumentMoniker": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\data\\Recommendation.cs",
+              "RelativeDocumentMoniker": "455Models\\data\\Recommendation.cs",
+              "ToolTip": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\data\\Recommendation.cs",
+              "RelativeToolTip": "455Models\\data\\Recommendation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:51:15.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Article_Recommendations_Content.csv",
+              "DocumentMoniker": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\data\\Article_Recommendations_Content.csv",
+              "RelativeDocumentMoniker": "455Models\\data\\Article_Recommendations_Content.csv",
+              "ToolTip": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\data\\Article_Recommendations_Content.csv",
+              "RelativeToolTip": "455Models\\data\\Article_Recommendations_Content.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-05T22:35:02.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Article_Recommendations_Collaborative.csv",
+              "DocumentMoniker": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\data\\Article_Recommendations_Collaborative.csv",
+              "RelativeDocumentMoniker": "455Models\\data\\Article_Recommendations_Collaborative.csv",
+              "ToolTip": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\data\\Article_Recommendations_Collaborative.csv",
+              "RelativeToolTip": "455Models\\data\\Article_Recommendations_Collaborative.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-04T20:31:11.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\.gitignore",
+              "RelativeDocumentMoniker": "455Models\\.gitignore",
+              "ToolTip": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\.gitignore",
+              "RelativeToolTip": "455Models\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-02T02:58:12.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\data\\Item.cs",
+              "RelativeDocumentMoniker": "455Models\\data\\Item.cs",
+              "ToolTip": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\data\\Item.cs",
+              "RelativeToolTip": "455Models\\data\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:56:46.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\Program.cs",
+              "RelativeDocumentMoniker": "455Models\\Program.cs",
+              "ToolTip": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\Program.cs",
+              "RelativeToolTip": "455Models\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:41:58.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidController.cs",
+              "DocumentMoniker": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\Controllers\\ValidController.cs",
+              "RelativeDocumentMoniker": "455Models\\Controllers\\ValidController.cs",
+              "ToolTip": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\Controllers\\ValidController.cs",
+              "RelativeToolTip": "455Models\\Controllers\\ValidController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAlwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:24:33.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "455Models\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\Properties\\launchSettings.json",
+              "RelativeToolTip": "455Models\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T02:22:25.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\appsettings.json",
+              "RelativeDocumentMoniker": "455Models\\appsettings.json",
+              "ToolTip": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\appsettings.json",
+              "RelativeToolTip": "455Models\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T02:22:15.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\package.json",
+              "RelativeDocumentMoniker": "455Models\\package.json",
+              "ToolTip": "C:\\Users\\salde\\OneDrive\\Documents\\6. Winter 2025\\IS 455\\455Models\\backend\\455Models\\455Models\\package.json",
+              "RelativeToolTip": "455Models\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T19:06:51.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
