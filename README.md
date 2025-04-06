@@ -34,7 +34,6 @@ These datasets can be joined based on the `contentId` column. The dataset is ava
 
 ### 3. Azure ML Studio Model (Wide and Deep)
 - Generate either an SVD (Singular Value Decomposition) or Wide and Deep recommendation model in Azure ML Studio.
-- Deploy the model as an endpoint.
 
 ### 4. Web Application
 - Create a simple web page (using any framework or language of your choice) where a user can:
@@ -42,6 +41,5 @@ These datasets can be joined based on the `contentId` column. The dataset is ava
   - Return three lists of 5 recommended items based on:
     1. Python collaborative filtering model
     2. Python content filtering model
-    3. Azure ML Studio endpoint
 - Use a valid `userID` from the dataset for all recommendations.
 - The application should display the recommended `itemIDs` for each model.
